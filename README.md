@@ -5,7 +5,7 @@
 
 Test the bamboolib demo on binder via clicking the following button:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/8080labs/bamboolib_docker_demo_notebook/master?filepath=bamboolib_demo_titanic.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JapneetSinghbagga/bamboolib_docker_demo_notebook/master?filepath=data_for_container%2Fbamboolib_demo_titanic.ipynb)
 
 
 
